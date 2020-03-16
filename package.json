@@ -1,0 +1,23 @@
+{
+  "name": "aircloud",
+  "version": "1.0.0",
+  "description": "## Hexo-Theme-AirCloud: 一个简洁轻量的 hexo 博客主题",
+  "main": "index.js",
+  "scripts": {
+    "start": "lessc source/css/aircloud.less source/css/aircloud.css --source-map"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basd4g/hexo-theme-aircloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basd4g/hexo-theme-aircloud/issues"
+  },
+  "homepage": "https://github.com/basd4g/hexo-theme-aircloud#readme",
+  "dependencies": {
+    "less": "^3.11.1"
+  }
+}
